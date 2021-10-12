@@ -1,0 +1,16 @@
+
+#search{
+    border-color: turquoise;
+    border-radius: 10px;
+    width: 100px;
+    color: turquoise;
+    margin: 50px 50px 0px;
+}
+
+#plus{
+    margin: 50px 50px 0px;
+    border-radius: 10px;
+    border-color: turquoise;
+    background-color: turquoise;
+    color: white;
+}
